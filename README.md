@@ -5,7 +5,6 @@
 - Spring 
 - java
  #
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=w00lam)](https://solved.ac/w00lam)<br/>
  <div align="center">
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=w00lam&show_icons=true&theme=tokyonight)

@@ -4,7 +4,7 @@
 
 ### 📕Platforms & Languages
 
-![java](https://img.shields.io/badge/Java-007396.svg?&style=plastice&logo=JAVA&logoColor=white)
+![java](https://img.shields.io/badge/Java-007396.svg?&style=plastice&logo=Java&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=plastice&logo=Spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=plastice&logo=Spring%20Boot&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1.svg?&style=plastic&logo=MySQL&logoColor=white)

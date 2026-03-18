@@ -11,10 +11,10 @@
 ![mysql](https://img.shields.io/badge/MySQL-4479A1.svg?&style=plastic&logo=MySQL&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248.svg?&style=plastic&logo=MongoDB&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=plastic&logo=Amazon%20AWS&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=GitHub&logoColor=white)
 
 ### 🛠️Tools
 
-![github](https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=GitHub&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=plastic&logo=IntelliJ%20IDEA&logoColor=white)
 ![dbeaver](https://img.shields.io/badge/DBeaver-382923.svg?&style=plastic&logo=DBeaver&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=plastic&logo=Postman&logoColor=white)

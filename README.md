@@ -19,6 +19,9 @@
 ![dbeaver](https://img.shields.io/badge/DBeaver-382923.svg?&style=plastic&logo=DBeaver&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=plastic&logo=Postman&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032.svg?&style=plastic&logo=Git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438.svg?&style=plastic&logo=Redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?&style=plastic&logo=apachekafka&logoColor=white)
 
 # 📚Tech Stack📚
 

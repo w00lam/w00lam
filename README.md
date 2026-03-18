@@ -18,6 +18,7 @@
 ![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=plastic&logo=IntelliJ%20IDEA&logoColor=white)
 ![dbeaver](https://img.shields.io/badge/DBeaver-382923.svg?&style=plastic&logo=DBeaver&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=plastic&logo=Postman&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032.svg?&style=plastic&logo=Git&logoColor=white)
 
 # 📚Tech Stack📚
 

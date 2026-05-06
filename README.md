@@ -31,5 +31,5 @@
 
 ### 📊Github Status
 
-![w00lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00lam&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w00lam&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=w00lam&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=w00lam&layout=compact&theme=tokyonight)
